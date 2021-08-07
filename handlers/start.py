@@ -32,7 +32,7 @@ Music Assistant - @YooAssistant
                         "💬 Help Group", url="https://t.me/yoosupport"
                     ),
                     InlineKeyboardButton(
-                        "Owner💖", url="https://t.me/ItzMeYoo"
+                        "Owner💖", url="https://t.me/YooAssistant"
                     ),
                     InlineKeyboardButton(
                         "✨GitHub✨", url="http://www.github.com/War-Legend/camilavcbot"
